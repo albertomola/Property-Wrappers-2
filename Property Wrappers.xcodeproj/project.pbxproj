@@ -14,6 +14,8 @@
 		D38AE0F62BB464DF004AC86B /* Property_WrappersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38AE0F52BB464DF004AC86B /* Property_WrappersTests.swift */; };
 		D38AE1002BB464DF004AC86B /* Property_WrappersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38AE0FF2BB464DF004AC86B /* Property_WrappersUITests.swift */; };
 		D38AE1022BB464DF004AC86B /* Property_WrappersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38AE1012BB464DF004AC86B /* Property_WrappersUITestsLaunchTests.swift */; };
+		D38AE10F2BB46BDC004AC86B /* Vista2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38AE10E2BB46BDC004AC86B /* Vista2.swift */; };
+		D38AE1112BB49E42004AC86B /* Vista3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38AE1102BB49E42004AC86B /* Vista3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		D38AE0FB2BB464DF004AC86B /* Property WrappersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Property WrappersUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D38AE0FF2BB464DF004AC86B /* Property_WrappersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Property_WrappersUITests.swift; sourceTree = "<group>"; };
 		D38AE1012BB464DF004AC86B /* Property_WrappersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Property_WrappersUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D38AE10E2BB46BDC004AC86B /* Vista2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vista2.swift; sourceTree = "<group>"; };
+		D38AE1102BB49E42004AC86B /* Vista3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vista3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				D38AE0E62BB464CD004AC86B /* ContentView.swift */,
 				D38AE0E82BB464DE004AC86B /* Assets.xcassets */,
 				D38AE0EA2BB464DE004AC86B /* Preview Content */,
+				D38AE10E2BB46BDC004AC86B /* Vista2.swift */,
+				D38AE1102BB49E42004AC86B /* Vista3.swift */,
 			);
 			path = "Property Wrappers";
 			sourceTree = "<group>";
@@ -257,6 +263,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D38AE10F2BB46BDC004AC86B /* Vista2.swift in Sources */,
+				D38AE1112BB49E42004AC86B /* Vista3.swift in Sources */,
 				D38AE0E72BB464CD004AC86B /* ContentView.swift in Sources */,
 				D38AE0E52BB464CD004AC86B /* Property_WrappersApp.swift in Sources */,
 			);
